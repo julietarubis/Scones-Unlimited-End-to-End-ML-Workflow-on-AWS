@@ -4,7 +4,7 @@ This project was completed as part of the AWS Machine Learning Fundamentals Nano
 
 Project Overview:
 
-We designed and deployed a machine learning workflow to classify images for "Scones Unlimited" using AWS cloud tools. The workflow includes:
+I designed and deployed a machine learning workflow to classify images for "Scones Unlimited" using AWS cloud tools. The workflow includes:
 
 Training and deploying a SageMaker ML model
 
