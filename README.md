@@ -31,8 +31,11 @@ CloudWatch – Logging and monitoring
 Learning Outcomes:
 
 ✔️ Train and deploy ML models on SageMaker
+
 ✔️ Build an end-to-end ML workflow with Step Functions
+
 ✔️ Author and test Lambda functions
+
 ✔️ Monitor and debug model performance
 
 This project showcases MLOps on AWS — combining machine learning with scalable, production-ready cloud workflows.
