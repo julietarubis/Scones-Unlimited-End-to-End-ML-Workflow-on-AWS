@@ -39,7 +39,3 @@ CloudWatch – Logging and monitoring
 ✔️ Monitor and debug model performance
 
 This project showcases MLOps on AWS — combining machine learning with scalable, production-ready cloud workflows.
-
-## 📃 License
-
-This repository is licensed under the [MIT License](./LICENSE).
