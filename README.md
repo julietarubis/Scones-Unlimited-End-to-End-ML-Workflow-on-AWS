@@ -32,10 +32,6 @@ CloudWatch – Logging and monitoring
 
 ✔️ Train and deploy ML models on SageMaker
 
-## 📃 License
-
-This repository is licensed under the [MIT License](./LICENSE).
-
 ✔️ Build an end-to-end ML workflow with Step Functions
 
 ✔️ Author and test Lambda functions
@@ -43,3 +39,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 ✔️ Monitor and debug model performance
 
 This project showcases MLOps on AWS — combining machine learning with scalable, production-ready cloud workflows.
+
+## 📃 License
+
+This repository is licensed under the [MIT License](./LICENSE).
