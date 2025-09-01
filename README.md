@@ -41,4 +41,5 @@ CloudWatch – Logging and monitoring
 This project showcases MLOps on AWS — combining machine learning with scalable, production-ready cloud workflows.
 
 
-[AWS MACHINE LEARNING FUNDAMENTALS NANONDEGREE PROGRAM.pdf](https://github.com/user-attachments/files/22083601/AWS.MACHINE.LEARNING.FUNDAMENTALS.NANONDEGREE.PROGRAM.pdf)
+[CERTIFICATE - AWS MACHINE LEARNING FUNDAMENTALS NANONDEGREE PROGRAM.pdf](https://github.com/user-attachments/files/22083614/CERTIFICATE.-.AWS.MACHINE.LEARNING.FUNDAMENTALS.NANONDEGREE.PROGRAM.pdf)
+
