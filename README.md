@@ -1,8 +1,8 @@
-Project: Scones Unlimited – End-to-End ML Workflow on AWS
+## Project: Scones Unlimited – End-to-End ML Workflow on AWS
 
 This project was completed as part of the AWS Machine Learning Fundamentals Nanodegree (Udacity). It demonstrates how to build, deploy, and monitor a complete ML workflow on Amazon SageMaker with supporting AWS services.
 
-Project Overview:
+## Project Overview:
 
 I designed and deployed a machine learning workflow to classify images for "Scones Unlimited" using AWS cloud tools. The workflow includes:
 
@@ -16,7 +16,7 @@ Orchestrating steps with AWS Step Functions
 
 Monitoring model performance with Model Monitor
 
-Tech Stack:
+## Tech Stack:
 
 Amazon SageMaker – Training, endpoint deployment, and monitoring
 
@@ -28,7 +28,7 @@ Amazon S3 – Data storage
 
 CloudWatch – Logging and monitoring
 
-Learning Outcomes:
+## Learning Outcomes:
 
 ✔️ Train and deploy ML models on SageMaker
 
